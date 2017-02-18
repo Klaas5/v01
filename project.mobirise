@@ -50,7 +50,7 @@
               "font-family": "'Open Sans Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
               "color": "#ffffff",
-              "font-size": "72px"
+              "font-size": "48px"
             }
           },
           "_anchor": "header1-1",
@@ -109,16 +109,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/klaas-1-2000x1518-69-2000x1518-91.jpg",
                 "image": "@PROJECT_PATH@/assets/images/klaas-1-2000x1518-69.jpg",
                 "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "caption": "Type caption here"
+                "active": true
               },
               {
                 "tags": "Illustration ",
@@ -168,7 +159,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/houtsnede1-2000x2811-87-2000x2811-45.jpg",
                 "image": "@PROJECT_PATH@/assets/images/houtsnede1-2000x2811-87.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Illustration ",
@@ -279,7 +270,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">KLAAS</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"file:///var/folders/11/vvfkxfcn0qq4b5snt8633fj80000gn/T/Mobirise-YLomAU/20161214_115517/index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#index-gallery4-0\" aria-expanded=\"true\">PORTFOLIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#index-content6-0\" aria-expanded=\"true\">BIOGRAPHY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#index-gallery4-0\" aria-expanded=\"false\">PORTFOLIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#index-content6-0\" aria-expanded=\"false\">BIOGRAPHY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"file:///var/folders/11/vvfkxfcn0qq4b5snt8633fj80000gn/T/Mobirise-YLomAU/20161214_115517/index.html\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
